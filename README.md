@@ -10,9 +10,7 @@ This is a fully responsive e-commerce shopping website project built using React
 - [Technologies Used](#technologies-used)
 - [Installation and Setup](#installation-and-setup)
 
-## Demo
 
-You can see a live demo of this project [here](https://ecommerce-shop-react-app.vercel.app/).
 
 ## Features
 
@@ -43,6 +41,3 @@ Below are some screenshots of the website.
 3. Run `npm start` to start the application.
 4. Open `http://localhost:3000` in your browser to view the website.
 
-
-Thank you! 🤍
-– Nigar Safarova
